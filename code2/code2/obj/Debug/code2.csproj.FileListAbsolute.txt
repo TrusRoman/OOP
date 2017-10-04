@@ -1,0 +1,9 @@
+D:\Учеба\OOP\lab2\code2\code2\bin\Debug\code2.exe.config
+D:\Учеба\OOP\lab2\code2\code2\bin\Debug\code2.exe
+D:\Учеба\OOP\lab2\code2\code2\bin\Debug\code2.pdb
+D:\Учеба\OOP\lab2\code2\code2\bin\Debug\System.ValueTuple.dll
+D:\Учеба\OOP\lab2\code2\code2\bin\Debug\System.ValueTuple.xml
+D:\Учеба\OOP\lab2\code2\code2\obj\Debug\code2.csprojResolveAssemblyReference.cache
+D:\Учеба\OOP\lab2\code2\code2\obj\Debug\code2.csproj.CoreCompileInputs.cache
+D:\Учеба\OOP\lab2\code2\code2\obj\Debug\code2.exe
+D:\Учеба\OOP\lab2\code2\code2\obj\Debug\code2.pdb
