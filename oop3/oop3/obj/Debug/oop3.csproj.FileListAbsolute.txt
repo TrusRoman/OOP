@@ -1,0 +1,7 @@
+D:\Учеба\OOP\oop3\oop3\bin\Debug\oop3.exe.config
+D:\Учеба\OOP\oop3\oop3\bin\Debug\oop3.exe
+D:\Учеба\OOP\oop3\oop3\bin\Debug\oop3.pdb
+D:\Учеба\OOP\oop3\oop3\obj\Debug\oop3.csprojResolveAssemblyReference.cache
+D:\Учеба\OOP\oop3\oop3\obj\Debug\oop3.csproj.CoreCompileInputs.cache
+D:\Учеба\OOP\oop3\oop3\obj\Debug\oop3.exe
+D:\Учеба\OOP\oop3\oop3\obj\Debug\oop3.pdb
